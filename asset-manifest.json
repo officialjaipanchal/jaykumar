@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.86daea6a.css",
-    "main.js": "/static/js/main.83737870.js",
+    "main.js": "/static/js/main.6e0340d8.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.f7916a18.chunk.js": "/static/js/64.f7916a18.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -11,6 +11,7 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Azrobot.png": "/static/media/Azrobot.a978a58a3dd3b2461124.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/awsdataanalytics.png": "/static/media/awsdataanalytics.8f8489d863ea5f87df93.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/shopping.png": "/static/media/shopping.0e0affe13000eedf6bc6.png",
     "static/media/GNU_LOGO.png": "/static/media/GNU_LOGO.5a2c044d658b4fc2c08d.png",
@@ -29,7 +30,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.86daea6a.css.map": "/static/css/main.86daea6a.css.map",
-    "main.83737870.js.map": "/static/js/main.83737870.js.map",
+    "main.6e0340d8.js.map": "/static/js/main.6e0340d8.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.f7916a18.chunk.js.map": "/static/js/64.f7916a18.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -37,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.86daea6a.css",
-    "static/js/main.83737870.js"
+    "static/js/main.6e0340d8.js"
   ]
 }
