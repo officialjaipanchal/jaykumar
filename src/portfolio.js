@@ -1,4 +1,3 @@
-/* Change this file to get your personal Portfolio */
 
 // To change portfolio colors globally go to the  _globalColor.scss file
 
@@ -180,7 +179,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Teaching Assistant",
+      role: "Teaching Assistant / Grader",
       company: "Arizona State University",
       companylogo: require("./assets/images/ASU LOGO.png"),
       date: "Jan 2024 - Working",
@@ -242,7 +241,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "Here are some of the Project I've developed.",
+  subtitle: "Here are some of the Project I've developed. ",
   projects: [
     {
       image: require("./assets/images/aws.png"),
